@@ -1,4 +1,4 @@
-# MNIST-kmeans-pca-gaussian_bayes
+# MNIST-Maximin-KMeans-PCA-GaussianBayes
 ***NOTE: Extract the "dataset.zip" file before running the code!***
 
 Programming exercise in Python which includes the following tasks:
