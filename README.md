@@ -19,6 +19,6 @@ Programming exercise in Python which includes the following tasks:
 - Do the same for $V=25,50,100$, where $V$ is the number of dimensions used for the PCA algorithm (if $V=25$, the reduced-sized images will be of shape $5 \times 5$) without visualizing the reduced-size images.
 - Find which value of $V$ maximizes the K-Means clustering purity ($V_{max}$).
 - Train a Gaussian Naive Bayes Classifier on the reduced images with size $V_{max}$.
-- Apply the PCA algorithm for $V=V_{max} on the test set.
+- Apply the PCA algorithm for $V=V_{max}$ on the test set.
 - Evaluate the classifier on the reduced-sized test set and calcualte its classification accuracy score.
 
