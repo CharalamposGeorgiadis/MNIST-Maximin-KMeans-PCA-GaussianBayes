@@ -1,1 +1,1 @@
-# MNIST-minimax-k_means-pca-gaussian_bayes
+# MNIST-kmeans-pca-gaussian_bayes
